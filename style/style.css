@@ -1,0 +1,66 @@
+body {
+font-family: 'Russo One', sans-serif;
+color: #154360;
+}
+.container1{
+width: 90%;
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+.brand {
+font-size: 30px;
+}
+.menu {
+padding-left: 0;
+margin-top: 0;
+margin-bottom: 0;
+}
+.menu li {
+float: left;
+font-size: 16px;
+list-style: none;
+}
+.menu li a {
+text-decoration: none;
+}
+/* Header */
+header {
+background-color: #EBF5FB;
+
+}
+
+header .brand {
+float: left;
+color: #273746;
+margin-bottom: 30px;
+}
+header .menu {
+float: right;
+margin-bottom: 30px;
+}
+header .menu li {
+padding-left: 20px;
+}
+header .menu li a {
+color: #273746;
+}
+body
+{
+  background:  #EBF5FB;
+}
+img { max-width: 100%; }
+
+h1
+{
+  color:#154360;
+
+}
+h2, h4, small
+ {
+   color: #F4D03F;
+ }
+ div
+ {
+  padding-top: 30px;
+ }
